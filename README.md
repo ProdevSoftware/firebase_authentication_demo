@@ -29,6 +29,8 @@ https://firebase.google.com/docs/flutter/setup
 ![Screenshot 2024-05-29 at 5 15 16 PM](https://github.com/ProdevSoftware/firebase_authentication_demo/assets/97152083/315675c0-f4ba-4a35-b64a-e7652900c07b)
 
 3) Dependencies
+
+    Add below dependencies in pubspec.yaml
 ```
 dependencies:
   flutter_riverpod: ^2.5.1
